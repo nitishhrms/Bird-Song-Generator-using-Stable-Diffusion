@@ -14,11 +14,11 @@ Generate  realistic bird songs 🎵 from visuals with Stable Diffusion!
 
 ### Example 1:
 ![image](https://github.com/user-attachments/assets/e18de42d-9514-4f7b-b168-b6438f5c2eb0)
-- **Audio**: [Listen Here](https://drive.google.com/file/d/1Dm-hXRsaPJUH7ieon5aaW1-XhJGOweyZ/view?usp=sharing)  
+- **Audio**: [Listen Here](https://drive.google.com/file/d/1Dm-hXRsaPJUH7ieon5aaW1-XhJGOweyZ/view?usp=drive_link)  
 
 ### Example 2: 
 ![image](https://github.com/user-attachments/assets/b1d22a09-90bc-47d2-88cb-c2244091aac7)
-- **Audio**: [Listen Here](https://drive.google.com/file/d/1Dm-hXRsaPJUH7ieon5aaW1-XhJGOweyZ/view?usp=drive_link)  
+- **Audio**: [Listen Here](https://drive.google.com/file/d/1Dm-hXRsaPJUH7ieon5aaW1-XhJGOweyZ/view?usp=sharing)  
 
 ---
 
