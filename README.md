@@ -1,7 +1,7 @@
 
 # 🐦🎶 Bird Song Generator using Stable Diffusion  
 
-Generate stunning bird visuals 🖼️ and realistic bird songs 🎵 with AI!  
+Generate stunning bird visuals 🖼️ and realistic bird songs 🎵 with Stable Diffusion!  
 
 ---
 
