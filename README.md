@@ -17,7 +17,7 @@ Generate stunning bird visuals 🖼️ and realistic bird songs 🎵 with AI!
 - **Audio**: [Listen Here](static/audio/hummingbird_song.mp3)  
 
 ### Example 2: 
-![image](https://github.com/user-attachments/assets/f77a95d0-79a6-460b-b796-8ecee3057007)
+![image](https://github.com/user-attachments/assets/b1d22a09-90bc-47d2-88cb-c2244091aac7)
 - **Audio**: [Listen Here](static/audio/eagle_song.mp3)  
 
 ---
